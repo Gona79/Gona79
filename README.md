@@ -22,13 +22,13 @@
 ---
 
 #### ⚡ Reto matemático:  
-Encuentra los 3 números enteros positivos consecutivos que cumplen con esta ecuación:
+Encuentra los 3 números enteros positivos no consecutivos que cumplen con esta ecuación:
 
-**X^3+Y^3+Z^3 == 42000001**
+**X^3+Y^3+Z^3 == 42000111**
 
 📚 Pistas:
 
-1) 𝑥, y, y z son números consecutivos.  
+1) 𝑥, y, y z son números no consecutivos.  
 2) Este problema requiere probar millones de combinaciones para encontrar la respuesta correcta.  
 3) Una IA o script bien optimizado podría resolverlo en segundos. 😎💻  
 
