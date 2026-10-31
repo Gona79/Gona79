@@ -1,34 +1,25 @@
-### Hola como estas, bienvenido a mi perfil 👋
+# Hola, ¿cómo estás? Bienvenido a mi perfil 👋
 
-👌 En mi carrera profesional tuve varios roles en la industria Electronica y Mecatronica. Tambien me desempeñe como docente en diferentes casas de estudio, rol que todavia me apasiona realizar en forma particular.
-  
-🔭 **Actualmente trabajo:**
-- En relación de dependencia para Coca-Cola Andina (Koandina).
-- Como Fundador y desarrollador en Gonaiot, un ecosistema tecnológico dedicado a la integración de AIoT (Inteligencia Artificial e Internet de las Cosas).
+👌 En mi carrera profesional tuve varios roles en la industria electrónica y mecatrónica. También me desempeñé como docente de nivel superior, un rol que todavía me apasiona.
 
-🚀 **¿Qué hago en Gonaiot?**
-- Diseño y desarrollo de hardware y software IoT/AIoT en la división LABIoT.
-- Consultoría estratégica en la implementación de tecnologías IoT en AIoT Insight.
-- Capacitación y producción de contenido educativo avanzado en InnoStack.
+🔭 **Actualmente:**
+- Trabajo como técnico mecatrónico en **Coca-Cola Andina** (servicios auxiliares).
+- Estoy terminando la **Licenciatura en Automatización y Control** en la UTN FRC, con la tesina como último paso.
 
-😎 **¿Y que mas?**
-- 📚 Actualmente sigo aprendiendo y dedicandole tiempo a los sistemas ciberfisicos y su integracion con la IA.
-- 🤔 Busco ayuda con recomendaciones para una vida saludable
-- 💡 Busco colaborar en proyectos innovadores en IoT y AIoT.
-- 🛠️ Pregúntame sobre tecnología: IoT, programación (C++, Python, JavaScript, etc.), electrónica y automatización.
-- 😄
-- 📩 Cómo contactarme: cg.vera.07@gmail.com (asunto: Personal) o bien gv@gonaiot.com (asunto: Laboral)
+🧩 **GonAIoT** es el nombre bajo el que desarrollo y comparto mis proyectos de IoT y AIoT. Estuvo en pausa estos años mientras me dedicaba a la Licenciatura.
 
----
+😎 **¿Y qué más?**
+- 📚 Sigo aprendiendo sobre sistemas ciberfísicos e IA en el borde (TinyML en ESP32).
+- 💡 Me interesa colaborar en proyectos de IoT y AIoT.
+- 🛠️ Preguntame sobre: sistemas embebidos (ESP32, STM32), automatización industrial (PLC Siemens, SCADA), IoT (MQTT), C/C++ y Python.
+- 📩 Contacto: [cg.vera.07@gmail.com](mailto:cg.vera.07@gmail.com) (personal) · [gv@gonaiot.com](mailto:gv@gonaiot.com) (laboral)
 
-#### ⚡ Reto matemático:  
-Encuentra los 3 números enteros positivos no consecutivos que cumplen con esta ecuación:
+⚡ **Reto ( ? ):**
+Encontrá enteros x, y, z (pueden ser negativos) que cumplan:
 
-**X^3+Y^3+Z^3 == 42000111**
+**x³ + y³ + z³ = 114**
 
-📚 Pistas:
-
-1) 𝑥, y, y z son números no consecutivos.  
-2) Este problema requiere probar millones de combinaciones para encontrar la respuesta correcta.  
-3) Una IA o script bien optimizado podría resolverlo en segundos. 😎💻  
-
+📚 Contexto:
+1. El 42 recién se resolvió en 2019, con más de un millón de horas de cómputo distribuido.
+2. Desde entonces, el 114 es el menor número para el que nadie encontró solución.
+3. Ni una IA ni un script lo resuelven en segundos. Si lo lográs, avisame… y avisale al mundo. 😎🌎
