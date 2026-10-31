@@ -3,7 +3,7 @@
 👌 En mi carrera profesional tuve varios roles en la industria electrónica y mecatrónica. También me desempeñé como docente de nivel superior, un rol que todavía me apasiona.
 
 🔭 **Actualmente:**
-- Trabajo como técnico mecatrónico en **Coca-Cola Andina** (servicios auxiliares).
+- Trabajo como técnico mecatrónico en **Coca-Cola Andina**.
 - Estoy terminando la **Licenciatura en Automatización y Control** en la UTN FRC, con la tesina como último paso.
 
 🧩 **GonAIoT** es el nombre bajo el que desarrollo y comparto mis proyectos de IoT y AIoT. Estuvo en pausa estos años mientras me dedicaba a la Licenciatura.
